@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+
+.j-font {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.l-font {
+    font-family: 'Lato', sans-serif;
+}
+
+.w-font {
+    font-family: 'Work Sans', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.f-color {
+    color: #252525;
+}
+
+.burger-color {
+    color: whitesmoke;
+
+}
+
+.text-align {
+    text-align: center;
+}
+
+.align-item {
+    align-items: center;
+}
+
+.max-width {
+    width: 80%;
+}
+
+.min-width {
+    width: 50%;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.b-margin {
+    margin: 15px 15px;
+}
+
+.f-size {
+    font-size: 18px;
+}
+
+.h-size {
+    font-size: 45px;
+}
+
+.i-font {
+    font-style: italic;
+}
+
+.o-font {
+    font-style: oblique;
+}
+
+.border-radius {
+    border-radius: 50%;
+}
+
+.bg {
+    background-color: green;
+}
+
+.icons-size {
+    font-size: 30px;
+    /* margin: 5px 25px; */
+    margin-top: 15px;
+    margin-left: 25px;
+    color: darkcyan;
+    cursor: pointer;
+}
+
+.card-1 {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+
+.card-2 {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+
+#u-range {
+    width: 30%;
+
+}
+
+#f-range {
+    width: 58%;
+}
+
+#r-range {
+    width: 40%;
+}
+
+#b-range {
+    width: 50%;
+}
